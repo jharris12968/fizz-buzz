@@ -1,0 +1,14 @@
+C:\Users\joeha\OneDrive\Desktop\Programming\05- Fizz Buzz\05- Fizz Buzz\bin\Debug\net8.0\05- Fizz Buzz.exe
+C:\Users\joeha\OneDrive\Desktop\Programming\05- Fizz Buzz\05- Fizz Buzz\bin\Debug\net8.0\05- Fizz Buzz.deps.json
+C:\Users\joeha\OneDrive\Desktop\Programming\05- Fizz Buzz\05- Fizz Buzz\bin\Debug\net8.0\05- Fizz Buzz.runtimeconfig.json
+C:\Users\joeha\OneDrive\Desktop\Programming\05- Fizz Buzz\05- Fizz Buzz\bin\Debug\net8.0\05- Fizz Buzz.dll
+C:\Users\joeha\OneDrive\Desktop\Programming\05- Fizz Buzz\05- Fizz Buzz\bin\Debug\net8.0\05- Fizz Buzz.pdb
+C:\Users\joeha\OneDrive\Desktop\Programming\05- Fizz Buzz\05- Fizz Buzz\obj\Debug\net8.0\05- Fizz Buzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joeha\OneDrive\Desktop\Programming\05- Fizz Buzz\05- Fizz Buzz\obj\Debug\net8.0\05- Fizz Buzz.AssemblyInfoInputs.cache
+C:\Users\joeha\OneDrive\Desktop\Programming\05- Fizz Buzz\05- Fizz Buzz\obj\Debug\net8.0\05- Fizz Buzz.AssemblyInfo.cs
+C:\Users\joeha\OneDrive\Desktop\Programming\05- Fizz Buzz\05- Fizz Buzz\obj\Debug\net8.0\05- Fizz Buzz.csproj.CoreCompileInputs.cache
+C:\Users\joeha\OneDrive\Desktop\Programming\05- Fizz Buzz\05- Fizz Buzz\obj\Debug\net8.0\05- Fizz Buzz.dll
+C:\Users\joeha\OneDrive\Desktop\Programming\05- Fizz Buzz\05- Fizz Buzz\obj\Debug\net8.0\refint\05- Fizz Buzz.dll
+C:\Users\joeha\OneDrive\Desktop\Programming\05- Fizz Buzz\05- Fizz Buzz\obj\Debug\net8.0\05- Fizz Buzz.pdb
+C:\Users\joeha\OneDrive\Desktop\Programming\05- Fizz Buzz\05- Fizz Buzz\obj\Debug\net8.0\05- Fizz Buzz.genruntimeconfig.cache
+C:\Users\joeha\OneDrive\Desktop\Programming\05- Fizz Buzz\05- Fizz Buzz\obj\Debug\net8.0\ref\05- Fizz Buzz.dll
